@@ -32,5 +32,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![Correct Answer](./screenshots/correctAnswer.png?raw=true "Correct Answer")
 
-![Incorrect Answer](./screenshots/incorrectAnswer.png?raw=true "Incorrect Answer")
+![Incorrect Answer](./screenshots/IncorrectAnswer.png?raw=true "Incorrect Answer")
 
