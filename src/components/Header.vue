@@ -77,6 +77,4 @@ export default {
     opacity: 1;
   }
 }
-
-/* The style below is just for the appearance of the example div */
 </style>

@@ -22,3 +22,15 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Screenshots
+
+![First Page](./screenshots/firstPage.png?raw=true "First Page")
+
+![Select Option](./screenshots/selectOption.png?raw=true "Select Option")
+
+![Correct Answer](./screenshots/correctAnswer.png?raw=true "Correct Answer")
+
+![Incorrect Answer](./screenshots/incorrectAnswer.png?raw=true "Incorrect Answer")
+
